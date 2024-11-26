@@ -1,0 +1,8 @@
+fastapi==0.115.5
+pydantic==2.10.1
+pyyaml==6.0.2
+Requests==2.32.3
+streamlit==1.38.0
+google-vertex-haystack==2.0.0
+pinecone-haystack==2.0.0
+haystack-ai==2.3.1
