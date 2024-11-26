@@ -1,0 +1,7 @@
+django_haystack==3.3.0
+fastapi==0.115.5
+pydantic==2.10.1
+PyYAML==6.0.2
+PyYAML==6.0.2
+Requests==2.32.3
+streamlit==1.38.0
